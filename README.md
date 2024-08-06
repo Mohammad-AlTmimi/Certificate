@@ -47,6 +47,6 @@ I am also a teacher at a school where I teach robotics using EV3 and Mindstorm k
 ## Contact Me
 
 - Email: mohammaedtamimei@gmail.com
-- LinkedIn: [Your LinkedIn Profile - linkedin.com/in/Mohammad Al-Tamimi]
+- LinkedIn: [linkedin.com/in/Mohammad Al-Tamimi]
 
 
