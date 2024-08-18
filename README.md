@@ -1,6 +1,6 @@
 # My Certifications
 
-This repository contains certifications and training completed by [Your Name]. These certifications demonstrate proficiency in various technologies and skills relevant to [Your Field or Industry].
+In this Repo I am gonna Introduce my experiance as a Computer Science Student and developer
 
 ## Certifications
 
